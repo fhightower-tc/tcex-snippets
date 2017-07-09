@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.message_tc('${1:}')
+]]></content>
+    <tabTrigger>tcemessagetc</tabTrigger>
+    <scope>source.python</scope>
+    <description>TcEx create an exit message</description>
+</snippet>

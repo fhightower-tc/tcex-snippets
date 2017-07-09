@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.exit(${1:})
+]]></content>
+    <tabTrigger>tceexit</tabTrigger>
+    <scope>source.python</scope>
+    <description>TcEx exit</description>
+</snippet>

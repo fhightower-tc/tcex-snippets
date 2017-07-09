@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.results_tc(${1:key}, ${2:value})
+]]></content>
+    <tabTrigger>tceresultstc</tabTrigger>
+    <scope>source.python</scope>
+    <description>Write data to results_tc file in TcEx specified directory</description>
+</snippet>
