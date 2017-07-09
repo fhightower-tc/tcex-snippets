@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-tcex.log.debug('${1:logging debug}')
-]]></content>
-    <tabTrigger>tcexlogdebug</tabTrigger>
-    <scope>source.python</scope>
-    <description>TcEx Debug Logging</description>
-</snippet>
