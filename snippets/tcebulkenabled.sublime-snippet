@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.bulk_enabled(${1:owner=None}, ${2:api_path=None}, ${3:authorization=None})
+]]></content>
+    <description>Check if bulk indicators is enabled for owner</description>
+    <scope>source.python</scope>
+    <tabTrigger>tcebulkenabled</tabTrigger>
+</snippet>

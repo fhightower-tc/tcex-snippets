@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.safe_rt(${1:resource_type}, ${2:lower=False})
+]]></content>
+    <description>Format Resource Type</description>
+    <scope>source.python</scope>
+    <tabTrigger>tcesafert</tabTrigger>
+</snippet>

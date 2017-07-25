@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.job()
+]]></content>
+    <description>Return instance of Job module</description>
+    <scope>source.python</scope>
+    <tabTrigger>tcejob</tabTrigger>
+</snippet>

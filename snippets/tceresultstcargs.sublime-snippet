@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.results_tc_args()
+]]></content>
+    <description>Read data from results_tc file from previous run of app.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tceresultstcargs</tabTrigger>
+</snippet>

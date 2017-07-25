@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.data_filter(${1:data})
+]]></content>
+    <description>Return an instance of the Data Filter Class</description>
+    <scope>source.python</scope>
+    <tabTrigger>tcedatafilter</tabTrigger>
+</snippet>

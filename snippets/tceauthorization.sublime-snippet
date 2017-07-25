@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.authorization(${1:request_prepped})
+]]></content>
+    <description>A method to handle the different methods of authenticating to the ThreatConnect API.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tceauthorization</tabTrigger>
+</snippet>
