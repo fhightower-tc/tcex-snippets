@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.group_id(${1:resource_id})
+]]></content>
+    <description>Update the request URI to include the Group ID for specific group retrieval.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tegroupid</tabTrigger>
+</snippet>

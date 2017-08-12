@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resource(${1:resource_type})
+]]></content>
+    <description>Get instance of Resource Class with dynamic group.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teresource</tabTrigger>
+</snippet>

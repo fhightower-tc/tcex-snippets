@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-tcex.request_tc()
-]]></content>
-    <description>Return an instance of the Request Class with Proxy and Authorization Set</description>
-    <scope>source.python</scope>
-    <tabTrigger>tcerequesttc</tabTrigger>
-</snippet>

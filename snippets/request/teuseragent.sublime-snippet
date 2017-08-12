@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.request.user_agent(${1:data})
+]]></content>
+    <description>The the User-Agent header value for this request.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teuseragent</tabTrigger>
+</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-tcex.log.critical('${1:message}')
-]]></content>
-    <tabTrigger>tcecritical</tabTrigger>
-    <scope>source.python</scope>
-    <description>TcEx critical logging</description>
-</snippet>

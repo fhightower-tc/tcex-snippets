@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.resolution(${1:indicator=None})
+]]></content>
+    <description>Update the URI to retrieve host resolutions for the provided indicator.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teresolution</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.job.batch_indicator_success()
+]]></content>
+    <description>Check completion for all batch jobs associated with this instance.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tebatchindicatorsuccess</tabTrigger>
+</snippet>

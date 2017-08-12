@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.playbook.create_string_array(${1:key}, ${2:value})
+]]></content>
+    <description>Create method of CRUD operation for string array data.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tecreatestringarray</tabTrigger>
+</snippet>

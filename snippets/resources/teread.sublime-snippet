@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.read(${1:domain}, ${2:type_name}, ${3:search_command}, ${4:owner=None})
+]]></content>
+    <description>Read entry in ThreatConnect Data Store</description>
+    <scope>source.python</scope>
+    <tabTrigger>teread</tabTrigger>
+</snippet>

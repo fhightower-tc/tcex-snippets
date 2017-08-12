@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.delete(${1:domain}, ${2:type_name}, ${3:search_command}, ${4:owner=None})
+]]></content>
+    <description>Delete entry in ThreatConnect Data Store</description>
+    <scope>source.python</scope>
+    <tabTrigger>tedelete</tabTrigger>
+</snippet>

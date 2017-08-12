@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.request.authorization_method(${1:method})
+]]></content>
+    <description>Method to create Authorization header for this request.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teauthorizationmethod</tabTrigger>
+</snippet>

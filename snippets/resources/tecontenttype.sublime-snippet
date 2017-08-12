@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.content_type(${1:data})
+]]></content>
+    <description>The Content-Type header for this resource request.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tecontenttype</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.job.indicator(${1:indicator})
+]]></content>
+    <description>Add indicator data to TcEx job.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teindicator</tabTrigger>
+</snippet>

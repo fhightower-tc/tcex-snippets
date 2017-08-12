@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.playbook.indicator_arrays(${1:tc_entity_array})
+]]></content>
+    <description>Convert TCEntityArray to Indicator Type dictionary</description>
+    <scope>source.python</scope>
+    <tabTrigger>teindicatorarrays</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.job.unprocessed_indicators(${1:value})
+]]></content>
+    <description> Set indicators list</description>
+    <scope>source.python</scope>
+    <tabTrigger>teunprocessedindicators</tabTrigger>
+</snippet>

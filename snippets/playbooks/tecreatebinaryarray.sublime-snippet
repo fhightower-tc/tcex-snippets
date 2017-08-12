@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.playbook.create_binary_array(${1:key}, ${2:value})
+]]></content>
+    <description>Create method of CRUD operation for binary array data.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tecreatebinaryarray</tabTrigger>
+</snippet>

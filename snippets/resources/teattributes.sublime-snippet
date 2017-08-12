@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.attributes(${1:resource_id=None})
+]]></content>
+    <description>Attribute endpoint for this resource with optional attribute id.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teattributes</tabTrigger>
+</snippet>

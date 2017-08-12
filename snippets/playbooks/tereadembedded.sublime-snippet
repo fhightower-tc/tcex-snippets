@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.playbook.read_embedded(${1:data}, ${2:parent_var_type})
+]]></content>
+    <description>Read method for "mixed" variable type.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tereadembedded</tabTrigger>
+</snippet>

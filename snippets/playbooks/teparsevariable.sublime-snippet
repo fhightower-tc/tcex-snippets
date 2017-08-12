@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.playbook.parse_variable(${1:variable})
+]]></content>
+    <description>Method to parse an input or output variable.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teparsevariable</tabTrigger>
+</snippet>

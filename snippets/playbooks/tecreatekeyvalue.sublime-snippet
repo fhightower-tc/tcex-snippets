@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.playbook.create_key_value(${1:key}, ${2:value})
+]]></content>
+    <description>Create method of CRUD operation for key/value data.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tecreatekeyvalue</tabTrigger>
+</snippet>

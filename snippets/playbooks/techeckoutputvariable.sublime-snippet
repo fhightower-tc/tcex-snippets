@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.playbook.check_output_variable(${1:variable})
+]]></content>
+    <description>Check to see if output variable was requested by downstream app.</description>
+    <scope>source.python</scope>
+    <tabTrigger>techeckoutputvariable</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.playbook.create_raw(${1:key}, ${2:value})
+]]></content>
+    <description>Create method of CRUD operation for raw data.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tecreateraw</tabTrigger>
+</snippet>

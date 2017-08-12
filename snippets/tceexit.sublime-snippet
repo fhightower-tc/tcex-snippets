@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-tcex.exit(${1:code=None})
-]]></content>
-    <description>Application exit method with proper exit code</description>
-    <scope>source.python</scope>
-    <tabTrigger>tceexit</tabTrigger>
-</snippet>

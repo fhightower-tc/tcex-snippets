@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.entity_body(${1:data})
+]]></content>
+    <description>Alias to :py:meth:`~tcex.tcex_resources.Indicator.indicator_body` method.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teentitybody</tabTrigger>
+</snippet>

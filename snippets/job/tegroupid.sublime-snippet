@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.job.group_id(${1:name}, ${2:owner}, ${3:resource_type})
+]]></content>
+    <description>Get the group id from the group cache.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tegroupid</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.file_action(${1:resource_id}, ${2:action_name})
+]]></content>
+    <description>File action pivot for this resource.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tefileaction</tabTrigger>
+</snippet>

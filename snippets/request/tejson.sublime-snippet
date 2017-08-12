@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.request.json(${1:data})
+]]></content>
+    <description>The POST/PUT body content in JSON format for this request.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tejson</tabTrigger>
+</snippet>

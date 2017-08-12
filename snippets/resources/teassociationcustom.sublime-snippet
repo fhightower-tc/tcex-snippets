@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.association_custom(${1:association_name}, ${2:association_resource=None})
+]]></content>
+    <description>Custom Indicator association for this resource with resource value.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teassociationcustom</tabTrigger>
+</snippet>

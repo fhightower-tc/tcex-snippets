@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.request.set_basic_auth(${1:username}, ${2:password})
+]]></content>
+    <description>Manually set basic auth in the header when normal method does not work.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tesetbasicauth</tabTrigger>
+</snippet>

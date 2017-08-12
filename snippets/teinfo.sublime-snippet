@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.log.info('${1:message}')
+]]></content>
+    <tabTrigger>teinfo</tabTrigger>
+    <scope>source.python</scope>
+    <description>TcEx info logging</description>
+</snippet>

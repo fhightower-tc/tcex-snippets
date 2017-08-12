@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.playbook.json_to_bulk(${1:tc_data}, ${2:value_fields}, ${3:resource_type}, ${4:resource_type_parent})
+]]></content>
+    <description>Convert ThreatConnect JSON response to a Bulk Format</description>
+    <scope>source.python</scope>
+    <tabTrigger>tejsontobulk</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.job.batch_write_type(${1:write_type})
+]]></content>
+    <description>Set batch attributes write type for argument parser.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tebatchwritetype</tabTrigger>
+</snippet>

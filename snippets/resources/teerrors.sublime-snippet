@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.errors(${1:batch_id})
+]]></content>
+    <description>Update the URI to retrieve errors for a batch job.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teerrors</tabTrigger>
+</snippet>

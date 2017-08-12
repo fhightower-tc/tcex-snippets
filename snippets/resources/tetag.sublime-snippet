@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.tag(${1:resource_id})
+]]></content>
+    <description>Update the request URI to include the Tag for specific retrieval.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tetag</tabTrigger>
+</snippet>

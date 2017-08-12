@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.class_factory(${1:name}, ${2:base_class}, ${3:class_dict})
+]]></content>
+    <description>Internal method for dynamically building Custom Indicator classes.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teclassfactory</tabTrigger>
+</snippet>

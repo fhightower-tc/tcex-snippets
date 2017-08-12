@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.job.batch_halt_on_error(${1:halt_on_error})
+]]></content>
+    <description>Set batch halt on error boolean for argument parser.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tebatchhaltonerror</tabTrigger>
+</snippet>

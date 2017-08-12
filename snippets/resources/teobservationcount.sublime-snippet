@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.observation_count()
+]]></content>
+    <description>Retrieve indicator observation count</description>
+    <scope>source.python</scope>
+    <tabTrigger>teobservationcount</tabTrigger>
+</snippet>

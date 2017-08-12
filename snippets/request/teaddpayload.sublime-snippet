@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.request.add_payload(${1:key}, ${2:val})
+]]></content>
+    <description>Add a key value pair to payload for this request.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teaddpayload</tabTrigger>
+</snippet>

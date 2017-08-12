@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.playbook.json_to_entity(${1:tc_data}, ${2:value_fields}, ${3:resource_type}, ${4:resource_type_parent})
+]]></content>
+    <description>Convert ThreatConnect JSON response to a TCEntityArray</description>
+    <scope>source.python</scope>
+    <tabTrigger>tejsontoentity</tabTrigger>
+</snippet>

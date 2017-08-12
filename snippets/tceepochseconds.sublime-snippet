@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-tcex.epoch_seconds(${1:delta=None})
-]]></content>
-    <description>Get epoch seconds for now or using a time delta.</description>
-    <scope>source.python</scope>
-    <tabTrigger>tceepochseconds</tabTrigger>
-</snippet>

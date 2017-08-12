@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.victim_assets(${1:asset_type=None}, ${2:asset_id=None})
+]]></content>
+    <description>Victim Asset endpoint for this resource with optional asset type.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tevictimassets</tabTrigger>
+</snippet>

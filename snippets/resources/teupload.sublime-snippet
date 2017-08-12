@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.upload(${1:resource_id}, ${2:data})
+]]></content>
+    <description>Update the request URI to upload the a document to this resource.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teupload</tabTrigger>
+</snippet>

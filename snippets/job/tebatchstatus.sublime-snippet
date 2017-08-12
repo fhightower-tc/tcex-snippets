@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.job.batch_status(${1:batch_id})
+]]></content>
+    <description>Check the status of a batch job</description>
+    <scope>source.python</scope>
+    <tabTrigger>tebatchstatus</tabTrigger>
+</snippet>

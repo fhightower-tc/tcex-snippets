@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.request.proxies(${1:data})
+]]></content>
+    <description>The proxy settings for this request.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teproxies</tabTrigger>
+</snippet>

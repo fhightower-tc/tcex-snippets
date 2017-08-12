@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.message_tc(${1:message})
+]]></content>
+    <description>Write data to message_tc file in TcEX specified directory.</description>
+    <scope>source.python</scope>
+    <tabTrigger>temessagetc</tabTrigger>
+</snippet>

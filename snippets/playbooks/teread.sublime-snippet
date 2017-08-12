@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.playbook.read(${1:key}, ${2:array=False})
+]]></content>
+    <description>Read method of CRUD operation for working with KeyValue DB.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teread</tabTrigger>
+</snippet>

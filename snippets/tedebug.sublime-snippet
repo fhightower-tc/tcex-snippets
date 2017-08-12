@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.log.debug('${1:message}')
+]]></content>
+    <tabTrigger>tedebug</tabTrigger>
+    <scope>source.python</scope>
+    <description>TcEx debug logging</description>
+</snippet>

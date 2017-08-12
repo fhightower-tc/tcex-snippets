@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.safe_indicator(${1:indicator}, ${2:errors='strict'})
+]]></content>
+    <description>Indicator encode value for safe HTTP request</description>
+    <scope>source.python</scope>
+    <tabTrigger>tesafeindicator</tabTrigger>
+</snippet>

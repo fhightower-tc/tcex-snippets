@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.resource_id(${1:resource_id})
+]]></content>
+    <description>Alias for victim_id method</description>
+    <scope>source.python</scope>
+    <tabTrigger>teresourceid</tabTrigger>
+</snippet>

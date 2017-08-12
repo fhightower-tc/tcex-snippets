@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.occurrence(${1:indicator=None})
+]]></content>
+    <description>Update the URI to retrieve file occurrences for the provided indicator.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teoccurrence</tabTrigger>
+</snippet>

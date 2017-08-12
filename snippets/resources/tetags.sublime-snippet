@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.tags(${1:resource_id=None})
+]]></content>
+    <description>Tag endpoint for this resource with optional tag name.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tetags</tabTrigger>
+</snippet>

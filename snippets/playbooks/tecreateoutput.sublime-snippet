@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.playbook.create_output(${1:key}, ${2:value}, ${3:variable_type=None})
+]]></content>
+    <description>Wrapper for Create method of CRUD operation for working with KeyValue DB.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tecreateoutput</tabTrigger>
+</snippet>

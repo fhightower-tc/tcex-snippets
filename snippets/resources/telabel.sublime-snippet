@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.label(${1:resource_id})
+]]></content>
+    <description>Update the request URI to include the Security Label for specific retrieval.</description>
+    <scope>source.python</scope>
+    <tabTrigger>telabel</tabTrigger>
+</snippet>

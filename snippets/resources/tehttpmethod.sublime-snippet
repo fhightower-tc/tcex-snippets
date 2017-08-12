@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.http_method(${1:data})
+]]></content>
+    <description>The HTTP Method for this resource request.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tehttpmethod</tabTrigger>
+</snippet>

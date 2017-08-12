@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.job.batch_chunk(${1:chunk_size})
+]]></content>
+    <description>Set batch chunk_size for argument parser.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tebatchchunk</tabTrigger>
+</snippet>

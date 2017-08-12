@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.association_pivot(${1:association_resource})
+]]></content>
+    <description>Pivot point on association for this resource.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teassociationpivot</tabTrigger>
+</snippet>

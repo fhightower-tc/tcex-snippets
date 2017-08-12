@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-tcex.safetag(${1:tag}, ${2:errors='strict'})
-]]></content>
-    <description>Truncate tag to match limit (35 characters) of ThreatConnect API.</description>
-    <scope>source.python</scope>
-    <tabTrigger>tcesafetag</tabTrigger>
-</snippet>

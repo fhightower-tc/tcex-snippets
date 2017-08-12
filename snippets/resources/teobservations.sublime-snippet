@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.observations()
+]]></content>
+    <description>Report indicator observations</description>
+    <scope>source.python</scope>
+    <tabTrigger>teobservations</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.s(${1:data}, ${2:errors='strict'})
+]]></content>
+    <description>Decode value using correct Python 2/3 method</description>
+    <scope>source.python</scope>
+    <tabTrigger>tes</tabTrigger>
+</snippet>

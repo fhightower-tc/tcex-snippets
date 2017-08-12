@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.job.group_association(${1:associations})
+]]></content>
+    <description>Add group association data to TcEx job.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tegroupassociation</tabTrigger>
+</snippet>

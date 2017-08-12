@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.playbook.read_raw(${1:key})
+]]></content>
+    <description>Read method of CRUD operation for raw data.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tereadraw</tabTrigger>
+</snippet>

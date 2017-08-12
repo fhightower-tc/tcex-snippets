@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.request.send(${1:stream=False})
+]]></content>
+    <description>Send the HTTP request via Python Requests modules.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tesend</tabTrigger>
+</snippet>

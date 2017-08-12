@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-tcex.safeurl(${1:url}, ${2:errors='strict'})
-]]></content>
-    <description>URL encode value for safe HTTP request</description>
-    <scope>source.python</scope>
-    <tabTrigger>tcesafeurl</tabTrigger>
-</snippet>

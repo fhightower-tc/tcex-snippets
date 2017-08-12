@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.request.authorization(${1:data})
+]]></content>
+    <description>The "Authorization" header value for this request.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teauthorization</tabTrigger>
+</snippet>

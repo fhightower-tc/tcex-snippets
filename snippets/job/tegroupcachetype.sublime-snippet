@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.job.group_cache_type(${1:group_id}, ${2:owner})
+]]></content>
+    <description>Get the group type for the provided group id</description>
+    <scope>source.python</scope>
+    <tabTrigger>tegroupcachetype</tabTrigger>
+</snippet>

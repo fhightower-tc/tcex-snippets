@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.log.error('${1:message}')
+]]></content>
+    <tabTrigger>teerror</tabTrigger>
+    <scope>source.python</scope>
+    <description>TcEx error logging</description>
+</snippet>

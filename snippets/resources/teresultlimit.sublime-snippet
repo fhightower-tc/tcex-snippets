@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.result_limit(${1:limit})
+]]></content>
+    <description>Set the ThreatConnect API query parameter for the number of results.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teresultlimit</tabTrigger>
+</snippet>

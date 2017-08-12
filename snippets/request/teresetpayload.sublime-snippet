@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.request.reset_payload()
+]]></content>
+    <description>Reset payload dictionary</description>
+    <scope>source.python</scope>
+    <tabTrigger>teresetpayload</tabTrigger>
+</snippet>

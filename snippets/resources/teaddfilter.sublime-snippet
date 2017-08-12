@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.add_filter(${1:name}, ${2:operator}, ${3:value})
+]]></content>
+    <description>Add ThreatConnect API Filter for this resource request.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teaddfilter</tabTrigger>
+</snippet>

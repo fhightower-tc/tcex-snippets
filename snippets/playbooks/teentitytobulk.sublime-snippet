@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.playbook.entity_to_bulk(${1:entities}, ${2:resource_type_parent})
+]]></content>
+    <description>Convert Single TC Entity to Bulk format</description>
+    <scope>source.python</scope>
+    <tabTrigger>teentitytobulk</tabTrigger>
+</snippet>

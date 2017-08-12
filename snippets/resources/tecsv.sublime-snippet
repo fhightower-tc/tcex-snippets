@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.csv(${1:ondemand=False})
+]]></content>
+    <description>Update request URI to return CSV data.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tecsv</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.playbook.read_tc_entity_array(${1:key})
+]]></content>
+    <description>Read method of CRUD operation for TC entity array data.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tereadtcentityarray</tabTrigger>
+</snippet>

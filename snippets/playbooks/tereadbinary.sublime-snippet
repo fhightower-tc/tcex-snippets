@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.playbook.read_binary(${1:key})
+]]></content>
+    <description>Read method of CRUD operation for binary data.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tereadbinary</tabTrigger>
+</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-tcex.expand_indicators(${1:indicator}, ${2:first_indicator=True})
-]]></content>
-    <description>Process indicators expanding file hashes/custom indicators into multiple entries</description>
-    <scope>source.python</scope>
-    <tabTrigger>tceexpandindicators</tabTrigger>
-</snippet>

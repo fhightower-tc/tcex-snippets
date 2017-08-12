@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.log.warning('${1:message}')
+]]></content>
+    <tabTrigger>tewarning</tabTrigger>
+    <scope>source.python</scope>
+    <description>TcEx warning logging</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.victim_pivot(${1:victim_resource})
+]]></content>
+    <description>Pivot point on Victims for this resource.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tevictimpivot</tabTrigger>
+</snippet>

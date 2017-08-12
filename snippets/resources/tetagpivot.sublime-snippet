@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.tag_pivot(${1:tag_resource})
+]]></content>
+    <description>Pivot point on tags for this resource.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tetagpivot</tabTrigger>
+</snippet>

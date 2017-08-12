@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.job.get_batch_job(${1:batch_id})
+]]></content>
+    <description>what is this for?</description>
+    <scope>source.python</scope>
+    <tabTrigger>tegetbatchjob</tabTrigger>
+</snippet>

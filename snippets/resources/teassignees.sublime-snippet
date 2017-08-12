@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.assignees(${1:assignee=None}, ${2:resource_id=None})
+]]></content>
+    <description>Add an assignee to a Task</description>
+    <scope>source.python</scope>
+    <tabTrigger>teassignees</tabTrigger>
+</snippet>

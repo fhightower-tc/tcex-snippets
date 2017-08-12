@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.request.basic_auth(${1:data})
+]]></content>
+    <description>The basic auth settings for this request.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tebasicauth</tabTrigger>
+</snippet>

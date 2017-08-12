@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.job.file_occurrence(${1:fo})
+]]></content>
+    <description></description>
+    <scope>source.python</scope>
+    <tabTrigger>tefileoccurrence</tabTrigger>
+</snippet>

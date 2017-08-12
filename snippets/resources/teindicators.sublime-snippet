@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.indicators(${1:indicator_data})
+]]></content>
+    <description>Generator for indicator values.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teindicators</tabTrigger>
+</snippet>

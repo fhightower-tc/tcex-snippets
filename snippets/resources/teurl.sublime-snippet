@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.url(${1:data})
+]]></content>
+    <description>The ThreatConnect URL for this resource request.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teurl</tabTrigger>
+</snippet>

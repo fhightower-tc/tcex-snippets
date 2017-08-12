@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.security_label_pivot(${1:security_label_resource})
+]]></content>
+    <description>Pivot point on security labels for this resource.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tesecuritylabelpivot</tabTrigger>
+</snippet>

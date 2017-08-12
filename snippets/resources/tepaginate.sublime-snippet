@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.paginate()
+]]></content>
+    <description>Paginate results from ThreatConnect API</description>
+    <scope>source.python</scope>
+    <tabTrigger>tepaginate</tabTrigger>
+</snippet>

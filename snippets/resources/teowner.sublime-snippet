@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.resources.owner(${1:data})
+]]></content>
+    <description>The Owner payload value for this resource request.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teowner</tabTrigger>
+</snippet>

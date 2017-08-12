@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.job.batch_action(${1:action})
+]]></content>
+    <description>Set the default batch action for argument parser.</description>
+    <scope>source.python</scope>
+    <tabTrigger>tebatchaction</tabTrigger>
+</snippet>

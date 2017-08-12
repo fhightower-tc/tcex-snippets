@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.playbook.json_to_key_value(${1:json_data}, ${2:key_field}, ${3:value_field=None}, ${4:array=False})
+]]></content>
+    <description>Convert JSON data to a KeyValue/KeyValueArray</description>
+    <scope>source.python</scope>
+    <tabTrigger>tejsontokeyvalue</tabTrigger>
+</snippet>

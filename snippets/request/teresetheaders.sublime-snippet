@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tcex.request.reset_headers()
+]]></content>
+    <description>Reset header dictionary for this request.</description>
+    <scope>source.python</scope>
+    <tabTrigger>teresetheaders</tabTrigger>
+</snippet>
