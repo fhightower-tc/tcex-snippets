@@ -1,4 +1,4 @@
-# tcex-snippets *(v0.1.0)*
+# tcex-snippets *(v1.0.0)*
 
 Sublime Text snippets for ThreatConnect's TcEx package.
 
