@@ -1,6 +1,6 @@
-# tcex-snippets *(v1.0.0)*
+# tcex-snippets
 
-Sublime Text snippets for ThreatConnect's TcEx package.
+Sublime Text snippets for ThreatConnect's [TCEX](https://github.com/ThreatConnect-Inc/tcex) package.
 
 ## Installation
 
@@ -37,4 +37,4 @@ TODO: add some usage instructions
 
 ## Credits
 
-The framework for this package was created from the Sublime Text Snippet Template available here: [https://github.com/agenoria/sublime-snippet-package-template](https://github.com/agenoria/sublime-snippet-package-template).
+The framework for this package was created from the Sublime Text Snippet Template available here: [https://github.com/fhightower-templates/sublime-snippet-package-template](https://github.com/fhightower-templates/sublime-snippet-package-template).
