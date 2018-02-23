@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+"tags": [
+    {
+        "name": "${1:}"
+    },${2:}
+]
+]]></content>
+    <tabTrigger>teistarttags</tabTrigger>
+    <scope>source.python</scope>
+    <description>Add tags to indicator json</description>
+</snippet>

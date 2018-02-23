@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+"rating": "${1:3}"
+]]></content>
+    <tabTrigger>teithreatrating</tabTrigger>
+    <scope>source.python</scope>
+    <description>Add threat rating to indicator json</description>
+</snippet>

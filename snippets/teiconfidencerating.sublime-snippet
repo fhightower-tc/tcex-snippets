@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+"confidence": ${1:50}
+]]></content>
+    <tabTrigger>teiconfidencerating</tabTrigger>
+    <scope>source.python</scope>
+    <description>Add confidence to indicator json</description>
+</snippet>

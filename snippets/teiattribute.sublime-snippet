@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+{
+    "type": "${1:Description}",
+    "value": "${2:}"
+},${3:}
+]]></content>
+    <tabTrigger>teiattribute</tabTrigger>
+    <scope>source.python</scope>
+    <description>Add new attribute to indicator json</description>
+</snippet>

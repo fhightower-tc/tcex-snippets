@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+{
+    "summary": "${1:enter the indicator here}",
+    "type": "${2:Address}",${3:}
+}
+]]></content>
+    <tabTrigger>tei</tabTrigger>
+    <scope>source.python</scope>
+    <description>Data structure used to create indicators</description>
+</snippet>
