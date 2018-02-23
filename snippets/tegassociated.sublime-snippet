@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+{
+  "group_name": "${1:}",
+  "group_type": "${2:Adversary}",
+  "indicator": "${3:}",
+  "indicator_type": "${4:Address}"
+}
+]]></content>
+    <tabTrigger>tegassociations</tabTrigger>
+    <scope>source.python</scope>
+    <description>Data structure used to create associations between a group and indicator</description>
+</snippet>

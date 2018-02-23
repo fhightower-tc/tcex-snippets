@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+{
+    "name": "${1:enter the name of the group here}",
+    "type": "${2:Adversary}",${3:}
+}
+]]></content>
+    <tabTrigger>teg</tabTrigger>
+    <scope>source.python</scope>
+    <description>Data structure used to create groups</description>
+</snippet>
