@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-"associatedGroup": ["${1:Enter group id here}", {$2:}]
+"associatedGroup": ["${1:Enter group id here}", {$2:}],
 ]]></content>
     <tabTrigger>teiassociatedgroups</tabTrigger>
     <scope>source.python</scope>

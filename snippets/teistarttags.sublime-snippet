@@ -4,7 +4,7 @@
     {
         "name": "${1:}"
     },${2:}
-]
+],
 ]]></content>
     <tabTrigger>teistarttags</tabTrigger>
     <scope>source.python</scope>
