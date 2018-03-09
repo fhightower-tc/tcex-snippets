@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-"tags": [
+"tag": [
     {
         "name": "${1:}"
     },${2:}
